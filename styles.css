@@ -1,0 +1,38 @@
+/* index css */
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    color: orange;
+}
+
+.link {
+    text-align: center;
+}
+
+/*apple pie page style */
+
+.head {
+    text-align: center;
+    color: rgb(255, 197, 88);
+}
+
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 450px;
+}
+
+.image2 {
+height: auto;
+width: 450px;
+}
+
+.description {
+    font-size: 18px;
+}
